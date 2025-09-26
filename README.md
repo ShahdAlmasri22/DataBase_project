@@ -20,6 +20,6 @@ Make sure you have the following installed on your system:
 - **MySQL / pgAdmin**  
 
 --
-** 📂 Project Documentation
+## 📂 Project Documentation
 You can view the full documentation and presentation here:
 👉 [Word Documentation](report_project_database.docx).
